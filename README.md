@@ -3,4 +3,4 @@ The test data Samples which can test how a face matching system performs when gi
 
 The directory structure is as follows:
 
-./faces/ <-- Directory of single image containing two images of a celeberity. (Typically 15-20 years apart) 
+./faces/ <-- Directory of single image containing two faces of a known celeberity. (Typically 15-20 years apart) 
